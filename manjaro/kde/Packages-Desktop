@@ -151,7 +151,7 @@ kwin
 qt5-virtualkeyboard  # Virtual keyboard support for kwin-wayland
 kwrited
 milou
-plasma-desktop
+plasma-desktop-primex
 plasma-nm
 plasma-pa
 plasma-workspace
